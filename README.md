@@ -1,4 +1,4 @@
-# LeetCode Beyond Easy 🚀
+# lc-grind 🚀
 
 Welcome to my LeetCode solutions repository! 
 
