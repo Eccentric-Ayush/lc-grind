@@ -40,3 +40,4 @@ python problem_name.py
 This is primarily a personal learning workspace, but feel free to explore the solutions. If you find a more optimal approach, spot a bug, or just want to discuss a problem, you are more than welcome to reach out or open an issue!
 
 Happy Coding! 💻✨
+(In case of a wrong code, connect me on LinkedIn!)
