@@ -1,3 +1,4 @@
+#Optimal Solution
 def decodeString(s):
     stack, cur, num = [], '', 0
     for c in s:
