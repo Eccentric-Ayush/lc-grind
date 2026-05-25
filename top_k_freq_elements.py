@@ -1,11 +1,11 @@
 #Optimized Solution
 def topKFrequent(nums, k):
-    h = {}
+    hash_map = {}
     for i in nums:
-        if i not in h:
-            h[i] = 1
+        if i not in hash_map:
+            hash_map[i] = 1
         else:
-            h[i] += 1
-    unique = list(h.keys())
-    unique.sort(key = lambda x: h[x], reverse = True)
+            hash_map[i] += 1
+    unique = list(hash_map.keys())
+    unique.sort(key = lambda x: hash_map[x], reverse = True)
     return unique[:k]
