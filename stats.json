@@ -1,11 +1,11 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-09",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -14,16 +14,18 @@
     "LeetCode_Restore_IP_Addresses": true,
     "LeetCode_Form_Smallest_Number_From_Two_Digit_Arrays": true,
     "LeetCode_Counting_Words_With_a_Given_Prefix": true,
-    "LeetCode_Check_If_String_Is_a_Prefix_of_Array": true
+    "LeetCode_Check_If_String_Is_a_Prefix_of_Array": true,
+    "LeetCode_Count_Prefixes_of_a_Given_String": true
   },
   "activityHistory": {
     "2026-06-07": 1,
-    "2026-06-09": 3
+    "2026-06-09": 4
   },
   "todayProblems": [
     "Restore IP Addresses",
     "Form Smallest Number From Two Digit Arrays",
     "Counting Words With a Given Prefix",
-    "Check If String Is a Prefix of Array"
+    "Check If String Is a Prefix of Array",
+    "Count Prefixes of a Given String"
   ]
 }
