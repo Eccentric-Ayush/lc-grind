@@ -5,3 +5,4 @@
 | 3 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | LeetCode | Easy | 09 Jun 2026 | 08:49 am |
 | 4 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | LeetCode | Easy | 09 Jun 2026 | 08:59 am |
 | 5 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | LeetCode | Easy | 09 Jun 2026 | 09:29 am |
+| 6 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | LeetCode | Easy | 09 Jun 2026 | 09:33 am |
