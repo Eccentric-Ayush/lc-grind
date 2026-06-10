@@ -10,3 +10,4 @@
 | 8 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | LeetCode | Easy | 10 Jun 2026 | 11:02 pm |
 | 9 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | LeetCode | Easy | 10 Jun 2026 | 11:52 pm |
 | 10 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | LeetCode | Easy | 10 Jun 2026 | 11:55 pm |
+| 11 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | LeetCode | Easy | 11 Jun 2026 | 12:17 am |
