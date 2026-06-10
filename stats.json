@@ -1,11 +1,11 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-06-10",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -18,12 +18,13 @@
     "LeetCode_Count_Prefixes_of_a_Given_String": true,
     "LeetCode_Largest_3-Same-Digit_Number_in_String": true,
     "LeetCode_Largest_Odd_Number_in_String": true,
-    "LeetCode_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation": true
+    "LeetCode_Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation": true,
+    "LeetCode_Day_of_the_Year": true
   },
   "activityHistory": {
     "2026-06-07": 1,
     "2026-06-09": 6,
-    "2026-06-10": 1
+    "2026-06-10": 2
   },
   "todayProblems": [
     "Restore IP Addresses",
@@ -33,6 +34,7 @@
     "Count Prefixes of a Given String",
     "Largest 3-Same-Digit Number in String",
     "Largest Odd Number in String",
-    "Determine Whether Matrix Can Be Obtained By Rotation"
+    "Determine Whether Matrix Can Be Obtained By Rotation",
+    "Day of the Year"
   ]
 }
