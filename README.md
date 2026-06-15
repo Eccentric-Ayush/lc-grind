@@ -13,3 +13,4 @@
 | 11 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | LeetCode | Easy | 11 Jun 2026 | 12:17 am |
 | 12 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | LeetCode | Easy | 11 Jun 2026 | 08:13 pm |
 | 13 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | LeetCode | Medium | 15 Jun 2026 | 06:41 am |
+| 14 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | LeetCode | Medium | 15 Jun 2026 | 07:09 am |
