@@ -1,12 +1,12 @@
 {
-  "totalSolved": 15,
-  "currentStreak": 1,
+  "totalSolved": 16,
+  "currentStreak": 2,
   "maxStreak": 3,
-  "lastSyncDate": "2026-06-15",
-  "todayCount": 2,
+  "lastSyncDate": "2026-06-16",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "basic": 0
   },
@@ -25,14 +25,16 @@
     "LeetCode_Harshad_Number": true,
     "LeetCode_Find_the_Maximum_Achievable_Number": true,
     "LeetCode_Maximum_Twin_Sum_of_a_Linked_List": true,
-    "LeetCode_Odd_Even_Linked_List": true
+    "LeetCode_Odd_Even_Linked_List": true,
+    "LeetCode_Process_String_with_Special_Operations_I": true
   },
   "activityHistory": {
     "2026-06-07": 1,
     "2026-06-09": 6,
     "2026-06-10": 4,
     "2026-06-11": 2,
-    "2026-06-15": 2
+    "2026-06-15": 2,
+    "2026-06-16": 1
   },
   "todayProblems": [
     "Restore IP Addresses",
@@ -49,6 +51,7 @@
     "Harshad Number",
     "Find the Maximum Achievable Number",
     "Maximum Twin Sum of a Linked List",
-    "Odd Even Linked List"
+    "Odd Even Linked List",
+    "Process String with Special Operations I"
   ]
 }
