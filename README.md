@@ -15,3 +15,4 @@
 | 13 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | LeetCode | Medium | 15 Jun 2026 | 06:41 am |
 | 14 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | LeetCode | Medium | 15 Jun 2026 | 07:09 am |
 | 15 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | LeetCode | Medium | 16 Jun 2026 | 08:09 pm |
+| 16 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode | Medium | 16 Jun 2026 | 08:31 pm |
