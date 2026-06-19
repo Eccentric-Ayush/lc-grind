@@ -1,12 +1,12 @@
 {
-  "totalSolved": 18,
-  "currentStreak": 2,
+  "totalSolved": 19,
+  "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-06-16",
-  "todayCount": 3,
+  "lastSyncDate": "2026-06-19",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 0
   },
@@ -28,7 +28,8 @@
     "LeetCode_Odd_Even_Linked_List": true,
     "LeetCode_Process_String_with_Special_Operations_I": true,
     "LeetCode_3Sum": true,
-    "LeetCode_4Sum_II": true
+    "LeetCode_4Sum_II": true,
+    "LeetCode_Double_a_Number_Represented_as_a_Linked_List": true
   },
   "activityHistory": {
     "2026-06-07": 1,
@@ -36,7 +37,8 @@
     "2026-06-10": 4,
     "2026-06-11": 2,
     "2026-06-15": 2,
-    "2026-06-16": 3
+    "2026-06-16": 3,
+    "2026-06-19": 1
   },
   "todayProblems": [
     "Restore IP Addresses",
@@ -56,6 +58,7 @@
     "Odd Even Linked List",
     "Process String with Special Operations I",
     "3Sum",
-    "4Sum II"
+    "4Sum II",
+    "Double a Number Represented as a Linked List"
   ]
 }
