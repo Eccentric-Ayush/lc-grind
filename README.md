@@ -19,3 +19,4 @@
 | 17 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | LeetCode | Medium | 16 Jun 2026 | 08:34 pm |
 | 18 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | LeetCode | Medium | 19 Jun 2026 | 07:33 am |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | LeetCode | Medium | 26 Jun 2026 | 11:04 pm |
+| 20 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | LeetCode | Medium | 26 Jun 2026 | 11:05 pm |
