@@ -1,11 +1,11 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-06-26",
-  "todayCount": 2,
+  "lastSyncDate": "2026-07-16",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 12,
+    "easy": 13,
     "medium": 9,
     "hard": 0,
     "basic": 0
@@ -31,7 +31,8 @@
     "LeetCode_4Sum_II": true,
     "LeetCode_Double_a_Number_Represented_as_a_Linked_List": true,
     "LeetCode_Remove_Nth_Node_From_End_of_List": true,
-    "LeetCode_Multiply_Strings": true
+    "LeetCode_Multiply_Strings": true,
+    "LeetCode_GCD_of_Odd_and_Even_Sums": true
   },
   "activityHistory": {
     "2026-06-07": 1,
@@ -41,7 +42,8 @@
     "2026-06-15": 2,
     "2026-06-16": 3,
     "2026-06-19": 1,
-    "2026-06-26": 2
+    "2026-06-26": 2,
+    "2026-07-16": 1
   },
   "todayProblems": [
     "Restore IP Addresses",
@@ -64,6 +66,7 @@
     "4Sum II",
     "Double a Number Represented as a Linked List",
     "Remove Nth Node From End of List",
-    "Multiply Strings"
+    "Multiply Strings",
+    "GCD of Odd and Even Sums"
   ]
 }
