@@ -24,3 +24,4 @@
 | 22 | [Gas Station](https://leetcode.com/problems/gas-station/) | LeetCode | Medium | 26 Jul 2026 | 10:59 pm |
 | 23 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | LeetCode | Medium | 08 Aug 2026 | 02:28 pm |
 | 24 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | LeetCode | Medium | 08 Aug 2026 | 02:45 pm |
+| 25 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | LeetCode | Medium | 08 Aug 2026 | 02:50 pm |

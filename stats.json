@@ -1,12 +1,12 @@
 {
-  "totalSolved": 25,
+  "totalSolved": 26,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-08-08",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 12,
+    "medium": 13,
     "hard": 0,
     "basic": 0
   },
@@ -35,7 +35,8 @@
     "LeetCode_GCD_of_Odd_and_Even_Sums": true,
     "LeetCode_Gas_Station": true,
     "LeetCode_Distinct_Prime_Factors_of_Product_of_Array": true,
-    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
+    "LeetCode_Minimum_Moves_to_Equal_Array_Elements": true
   },
   "activityHistory": {
     "2026-06-07": 1,
@@ -48,7 +49,7 @@
     "2026-06-26": 2,
     "2026-07-16": 1,
     "2026-07-26": 1,
-    "2026-08-08": 2
+    "2026-08-08": 3
   },
   "todayProblems": [
     "Restore IP Addresses",
@@ -75,6 +76,7 @@
     "GCD of Odd and Even Sums",
     "Gas Station",
     "Distinct Prime Factors of Product of Array",
-    "Minimum Moves to Equal Array Elements II"
+    "Minimum Moves to Equal Array Elements II",
+    "Minimum Moves to Equal Array Elements"
   ]
 }
