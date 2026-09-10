@@ -1,12 +1,12 @@
 {
-  "totalSolved": 27,
+  "totalSolved": 28,
   "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-09-08",
+  "lastSyncDate": "2026-09-10",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 13,
+    "medium": 14,
     "hard": 0,
     "basic": 0
   },
@@ -37,7 +37,8 @@
     "LeetCode_Distinct_Prime_Factors_of_Product_of_Array": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements_II": true,
     "LeetCode_Minimum_Moves_to_Equal_Array_Elements": true,
-    "LeetCode_Count_Commas_in_Range": true
+    "LeetCode_Count_Commas_in_Range": true,
+    "LeetCode_Removing_Stars_From_a_String": true
   },
   "activityHistory": {
     "2026-06-07": 1,
@@ -51,7 +52,8 @@
     "2026-07-16": 1,
     "2026-07-26": 1,
     "2026-08-08": 3,
-    "2026-09-08": 1
+    "2026-09-08": 1,
+    "2026-09-10": 1
   },
   "todayProblems": [
     "Restore IP Addresses",
@@ -80,6 +82,7 @@
     "Distinct Prime Factors of Product of Array",
     "Minimum Moves to Equal Array Elements II",
     "Minimum Moves to Equal Array Elements",
-    "Count Commas in Range"
+    "Count Commas in Range",
+    "Removing Stars From a String"
   ]
 }

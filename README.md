@@ -26,3 +26,4 @@
 | 24 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | LeetCode | Medium | 08 Aug 2026 | 02:45 pm |
 | 25 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | LeetCode | Medium | 08 Aug 2026 | 02:50 pm |
 | 26 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | LeetCode | Easy | 08 Sept 2026 | 06:39 pm |
+| 27 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) | LeetCode | Medium | 10 Sept 2026 | 08:21 am |
